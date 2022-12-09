@@ -1,7 +1,7 @@
 This is for our final report.
 This is the code for project, the comic books reading behaviour anaylsis
 
-The dataset used to built this network is from USCD Book Graph.
+The dataset used to build this network is from USCD Book Graph.
 https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home
 
 References:
