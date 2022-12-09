@@ -1,4 +1,4 @@
-This is for our final reprot.
+This is for our final report.
 This is the code for project, the comic books reading behaviour anaylsis
 
 The dataset used to built this network is from USCD Book Graph.
